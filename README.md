@@ -2,6 +2,8 @@ OpenGL Demo
 ==============
 This demo was made for an upper division Computer Graphics class. You can run the .cpp file directly, or build using make. This software was written on a linux machine, so if you aren't running a linux build, you will have to change your glu.h and glut.h paths.
 
+Video Demo: https://www.youtube.com/watch?v=9UfpduRpV5U
+
 Instructions:
 ==============
 * Left and Right arrow keys will rotate the teapot on the ground
